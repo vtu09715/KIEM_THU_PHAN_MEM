@@ -1,0 +1,13 @@
+{
+  "name": "test-doubles-demo",
+  "version": "1.0.0",
+  "description": "Demo of Test Doubles (Dummy, Fake, Stub, Mock) in Node.js",
+  "main": "src/user.service.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
